@@ -1,0 +1,17 @@
+.search-bar {
+    background-color: #4F6877;
+    border: 0;
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 5px 0;
+    margin-bottom: 0px;
+    padding: 10px 0;
+    text-align: center;
+    width: 300px;
+}
+
+.button {
+    background-color: #6BBE92;
+    width: 300px;
+    color: #fff;
+}
